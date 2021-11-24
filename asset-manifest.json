@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.4ebfe0cc.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.e0dac79e.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.e0dac79e.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0ad08de7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0ad08de7.js.map",
+    "static/js/2.102548e6.chunk.js": "/React-Portfolio/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/React-Portfolio/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.918050786a5075b79a6bd8c1d4365fc3.js": "/React-Portfolio/precache-manifest.918050786a5075b79a6bd8c1d4365fc3.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.4ebfe0cc.chunk.css.map": "/React-Portfolio/static/css/main.4ebfe0cc.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/Daily-Felon.jpg": "/React-Portfolio/static/media/Daily-Felon.df887f9f.jpg",
+    "static/media/Landing-Page.jpg": "/React-Portfolio/static/media/Landing-Page.02b9c25c.jpg",
+    "static/media/RPS.jpg": "/React-Portfolio/static/media/RPS.939ab764.jpg",
+    "static/media/Refactor.jpg": "/React-Portfolio/static/media/Refactor.6e85167b.jpg",
+    "static/media/calculator.jpg": "/React-Portfolio/static/media/calculator.a19f2b67.jpg",
+    "static/media/cover-image.jpg": "/React-Portfolio/static/media/cover-image.402a471b.jpg",
+    "static/media/led-wall.jpg": "/React-Portfolio/static/media/led-wall.653c2b3d.jpg",
+    "static/media/pastel-puzzels.jpg": "/React-Portfolio/static/media/pastel-puzzels.ed494730.jpg",
+    "static/media/reel-cinema.jpg": "/React-Portfolio/static/media/reel-cinema.8f0e3437.jpg",
+    "static/media/run-buddy.jpg": "/React-Portfolio/static/media/run-buddy.938f8fe0.jpg",
+    "static/media/surf-report.jpg": "/React-Portfolio/static/media/surf-report.12557c9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad08de7.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.4ebfe0cc.chunk.css",
+    "static/js/main.e0dac79e.chunk.js"
+  ]
+}
